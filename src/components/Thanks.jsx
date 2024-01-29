@@ -6,7 +6,7 @@ const Thanks = () => {
       <br></br>
       <img
         alt="thanks"
-        src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.smartweb.me%2Fwp-content%2Fuploads%2F2018%2F04%2Fthank-you.png&f=1&nofb=1"
+        src="https://img.freepik.com/free-vector/thank-you-concept-illustration_114360-13427.jpg?w=1060&t=st=1706546991~exp=1706547591~hmac=19617198c38d575b7b60f51586da8fa2ae2a80b98fa5f50eeb2b05066aa85d8d"
       />
       <br></br>
       <br></br>
